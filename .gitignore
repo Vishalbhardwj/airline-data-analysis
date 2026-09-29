@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
+
+# Large data files
+*.csv
+*.json
+*.xlsx
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
